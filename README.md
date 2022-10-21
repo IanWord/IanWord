@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Masters student, Data Science, faculty of IMADA, SDU.
+- 😄 Data Science Masters student, faculty of IMADA, SDU.
 - 🌱 currently working on Classification problems related to my masters thesis. 
 
 <!--
